@@ -1,6 +1,6 @@
 version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
 options: "060528fd15faec423461b338d0127f75"
-build_time: [511425531, 14340000]
+build_time: [511425749, 818770000]
 inputs:
-  "/Users/liqungang/zirs/test/test/AppDelegate.swift": [511425517, 0]
-  "/Users/liqungang/zirs/test/test/ViewController.swift": [511425517, 0]
+  "/Users/liqungang/zirs/test/test/ViewController.swift": [511425684, 0]
+  "/Users/liqungang/zirs/test/test/AppDelegate.swift": [511425684, 0]

@@ -9,15 +9,15 @@ provides-dynamic-lookup:
 - "didReceiveMemoryWarning"
 - "viewDidLoad"
 depends-top-level:
-- "UIViewController"
-- !private "NSString"
 - !private "+"
-- !private "String"
-- !private "Float"
-- !private "NSInteger"
 - "ViewController"
+- !private "NSInteger"
+- !private "NSString"
+- "UIViewController"
 - !private "print"
 - !private "StringLiteralType"
+- !private "String"
+- !private "Float"
 depends-member:
 - !private ["PSs9AnyObject", "String"]
 - ["PSs9AnyObject", "didReceiveMemoryWarning"]
